@@ -23,4 +23,22 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 ![](images/clipboard-1758191169.png)
 
-DiseThe epidemiological triangle helps illustrate how diseases occurs via the interaction between host, environment, and pathogen, when any one of the three factors falls out of equilibrium or becomes unstable, then disease is likely to occur. For example: When temperature rises (altering the environment) this often causes stress to the host, thus allowing for pathogens to invade immunologically compromised hosts due to elevated stress levels.
+The epidemiological triangle helps illustrate how diseases occurs via the interaction between host, environment, and pathogen, when any one of the three factors falls out of equilibrium or becomes unstable, then disease is likely to occur. For example: When temperature rises (altering the environment) this often causes stress to the host, thus allowing for pathogens to invade immunologically compromised hosts due to elevated stress levels.
+
+------------------------------------------------------------------------
+
+![Worksheet 2](images/clipboard-2552825706.png)
+
+1\. Sample size necessary to detect disease at or above 5% prevalence in 5000 deer with 95% confidence is: [**59 samples**]{.underline}
+
+2\. With a large population of 50,000 the sample sizes for:
+
+A)  95% confidence in detecting disease at 1% prevalence is: [**299samples**]{.underline}
+
+While the samples size needed in the same population (50,000) for:
+
+B)  99% confidence in detecting disease at 2% prevalence is: [**229 samples**]{.underline}
+
+So, scenario **A** requires [**more**]{.underline} samples to be taken then scenario **B**.
+
+3.  Based on the findings that 300 deer sampled from a herd of 4000 had no antibodies detected against EHD, I am 95% confident that the prevalence of exposure to EHD in this facility is: [**\<1%**]{.underline}

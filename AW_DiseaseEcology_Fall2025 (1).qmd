@@ -42,3 +42,61 @@ B)  99% confidence in detecting disease at 2% prevalence is: [**229 samples**]{.
 So, scenario **A** requires [**more**]{.underline} samples to be taken then scenario **B**.
 
 3.  Based on the findings that 300 deer sampled from a herd of 4000 had no antibodies detected against EHD, I am 95% confident that the prevalence of exposure to EHD in this facility is: [**\<1%**]{.underline}
+
+------------------------------------------------------------------------
+
+Worksheet 3 ![](images/clipboard-236174008.png)
+
+Incidence= \# of new cases on that day/ the at risk animals during that time
+
+A.  
+
+-   Incidence on **06/12/25**= [**0.098 cases per elk per day**]{.underline}
+
+*Work: Population total: 56*
+
+*On the previous day (06/11/25) 5 elk were already sick with 0 elk recovered so the number of the at risk population: 56-5= **51***
+
+*Number of new cases on 06/12/25: **5/51= 0.098 cases per elk day***
+
+-   Incidence on **06/14/25**= [**0.049 cases per elk per day**]{.underline}
+
+*Work: Population total: 56*
+
+*On the previous day (06/13/25) 12 elk were already sick and 3 elk had recovered so they are no longer at risk thus the number of the at risk population: 56-15= **41***
+
+*Number of new cases on 06/14/25: **2/41 =0.049 cases per elk per day***
+
+-   Incidence on **06/15/25**= [**0 cases per elk per day**]{.underline}
+
+*Work: Population total: 56*
+
+*Number of new cases on 06/15/25: **There were 0 new cases of disease on day 15 so the incidence will be 0.***
+
+B.  
+
+Prevalence: \# infected/ size of host population
+
+-   The prevalence on **06/13/25**= [**21.42% prevalence in the herd**]{.underline}
+
+*Work: total population=56*
+
+*Number infected= 12*
+
+*math= 12/56= 0.214\*100= 21.42%*
+
+-   The prevalence on **06/16/25= [8.93% prevalence in the herd]{.underline}**
+
+*Work: total population=56*
+
+*Number infected= 5*
+
+*math= 5/56= 0.0893\*100= 8.93%*
+
+C.  
+
+The prevalence and incidence are the same on [**06/10/25**]{.underline}
+
+D.  
+
+The incidence was the lowest on [**06/15/25 and 06/16/25**]{.underline} because for both days there were no new cases meaning the incidence for both days was 0.

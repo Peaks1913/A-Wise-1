@@ -221,11 +221,11 @@ For each state, explain your reasoning and support your answer with at least one
 
 Scenario:
 
-------------------------------
+------------------------------------------------------------------------
 
-------------------------------
+------------------------------------------------------------------------
 
-------------------------------
+------------------------------------------------------------------------
 
 **R~0~ is the number of new infections caused by a single infected individual in a fully susceptible population and is known as the basic reproduction number.**
 
@@ -241,33 +241,21 @@ Scenario:
 
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | Year |     | Population estimate   |     | Turtles with fibroma: old cases   |     | Turtles with fibroma: new cases   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | 2015 |     | 133                   |     | 0                                 |     | 4                                 |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | 2016 |     | 125                   |     | 2                                 |     | 5                                 |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | 2017 |     | 112                   |     | 4                                 |     | 8                                 |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | 2018 |     | 145                   |     | 5                                 |     | 4                                 |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     | 2019 |     | 136                   |     | 4                                 |     | 2                                 |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
-|     |      |     |                       |     |                                   |     |                                   |    |
-+-----+------+-----+-----------------------+-----+-----------------------------------+-----+-----------------------------------+----+
+|  |  |  |  |  |  |  |  |  |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|  |  |  |  |  |  |  |  |  |
+|  | Year |  | Population estimate |  | Turtles with fibroma: old cases |  | Turtles with fibroma: new cases |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2015 |  | 133 |  | 0 |  | 4 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2016 |  | 125 |  | 2 |  | 5 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2017 |  | 112 |  | 4 |  | 8 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2018 |  | 145 |  | 5 |  | 4 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2019 |  | 136 |  | 4 |  | 2 |  |
+|  |  |  |  |  |  |  |  |  |
 
 Turtles without visible fibroma are considered susceptible to the disease. 
 
@@ -312,3 +300,39 @@ Of the total population the number of immune seals needed: .667 \* 5400= 3601.8 
 Because only half the population can be vaccinated (2700 seals) of which 40% are already immune (40% of 2700 = 1080)
 
 3601.8 seals need to be vaccinated – 1080 which are already immune= [**2521.8 seals must be vaccinated.**]{.underline}
+
+------------------------------------------------------------------------
+
+Worksheet 4
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+Which of the following statements about MERS-CoV are correct? *(If incorrect, provide an explanation why the statement is incorrect.)*
+
+1\. MERS-CoV is primarily maintained in human populations. (3 points)
+
+**Incorrect: MERS was primarily maintained in camels due to a spill over event and was occasionally transmitted to humans.**
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (3 points)
+
+**Correct**
+
+3.   Humans are dead-end hosts for MERS-CoV. (3 points)
+
+**Incorrect: Humans are not necessarily dead-end hosts but are transient meaning there is some transmission, but ongoing transmission is not sustained in human populations.**
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (3 points)
+
+**Incorrect: The case fatality rate is \~35%**
+
+5.  The epidemic curve shows a point source outbreak. (3 points)
+
+**Incorrect: there are multiple peaks of cases meaning cases and transmission were more sporadic.**
+
+6.   Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend.    (5 points)
+
+**The sharp decline is most likely due to MERS being capable of invading and infecting however it cannot be sustained due to no sustained intraspecies transmission. Transmission between human-to-human hosts are rare and could not be sustained. Another reason for the decline could be due to once an outbreak is noticed limited contact between humans and camels is implemented to avoid further transmission.**

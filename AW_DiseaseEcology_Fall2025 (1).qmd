@@ -321,7 +321,7 @@ Which of the following statements about MERS-CoV are correct? *(If incorrect, pr
 
 **Correct**
 
-3.   Humans are dead-end hosts for MERS-CoV. (3 points)
+3.  Humans are dead-end hosts for MERS-CoV. (3 points)
 
 **Incorrect: Humans are not necessarily dead-end hosts but are transient meaning there is some transmission, but ongoing transmission is not sustained in human populations.**
 
@@ -333,6 +333,26 @@ Which of the following statements about MERS-CoV are correct? *(If incorrect, pr
 
 **Incorrect: there are multiple peaks of cases meaning cases and transmission were more sporadic.**
 
-6.   Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend.    (5 points)
+6.  Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend.    (5 points)
 
 **The sharp decline is most likely due to MERS being capable of invading and infecting however it cannot be sustained due to no sustained intraspecies transmission. Transmission between human-to-human hosts are rare and could not be sustained. Another reason for the decline could be due to once an outbreak is noticed limited contact between humans and camels is implemented to avoid further transmission.**
+
+------------------------------------------------------------------------
+
+Type the questions and your answers in the quarto document you have created. Do not create a new quarto document – open the qmd file you saved on your computer for previous assignments, separate previous work using a horizontal rule (Tab Insert \> Horizontal rule) and then start with the current worksheet.
+
+Please upload your quarto document to your GitHub repository after completing this worksheet. Do not change the filename.                                                    
+
+**Marburg Virus Outbreak, Rwanda 2024**
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units. ​
+
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.                                                **5 points**
+
+**I would currently classify the Marburg outbreak as more of a spillover event. Fenton and Pedersen define a spill-over event as cross-species infection with low/zero between species transmission and low within species(H2) transmission. From the recommended readings and from lecture 13, the only reason humans came into contact with the disease and contracted it initially was because of close contact while visiting a bat cave (which this contact can easily be controlled by limiting visitations into caves) and did not mention that bats had a high rate of infection (H1). As for human to human, in both the lecture and the reading, it seems the only reason it was even spreading between humans was because healthcare workers who worked hands on with the already infected were contracting the disease. Other than this interaction there wasn’t much transmission from those who were infected and those not directly in immediate close contact. For these reasons I believe that yes it is a spill-over because there was cross-species infection where the transmission within species was relatively low. However, I do think it is important to mention that without proper control and isolation methods this spillover event does have the potential to become an emerging infectious disease.**
+
+2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?                                                              **5 points**
+
+**To reduce the risk of transmission, there are several social interventions that can be implemented. These include avoiding bat-inhabited caves, and immediate reporting of those suspected of infection. As well as potential vaccination of those in close contact with bats. Once confirmed as infected healthcare workers should implement prevention and isolating protocols. This can be done by using strict and proper PPE for healthcare workers, following the isolation of both suspected and confirmed cases. By ensuring proper waste management and disinfection protocols of healthcare facilities transmission of the disease can be further decreased.**
+
+Recommended reading: Marburg Virus Disease in Rwanda – Centering Both Evidence and Equity by Cameron T. Nutt (Canvas \> Files \> Readings)

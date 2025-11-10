@@ -242,7 +242,7 @@ Scenario:
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 |  |  |  |  |  |  |  |  |  |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|----|----|----|----|----|----|----|----|----|
 |  |  |  |  |  |  |  |  |  |
 |  | Year |  | Population estimate |  | Turtles with fibroma: old cases |  | Turtles with fibroma: new cases |  |
 |  |  |  |  |  |  |  |  |  |
@@ -356,3 +356,13 @@ The first person to become infected in the current Marburg virus outbreak in Rw
 **To reduce the risk of transmission, there are several social interventions that can be implemented. These include avoiding bat-inhabited caves, and immediate reporting of those suspected of infection. As well as potential vaccination of those in close contact with bats. Once confirmed as infected healthcare workers should implement prevention and isolating protocols. This can be done by using strict and proper PPE for healthcare workers, following the isolation of both suspected and confirmed cases. By ensuring proper waste management and disinfection protocols of healthcare facilities transmission of the disease can be further decreased.**
 
 Recommended reading: Marburg Virus Disease in Rwanda – Centering Both Evidence and Equity by Cameron T. Nutt (Canvas \> Files \> Readings)
+
+------------------------------------------------------------------------
+
+Worksheet 6_2025
+
+The prevalence of pond 1 is **30% (95% CI: 14% –53%).**
+
+The prevalence of pond 2 is **7%** **(95% CI: .3% –30%).**
+
+The Fisher’s exact test was run to compare the two prevalence values and resulted in a p-value of **0.1987**. This p-value is greater than 0.05 indicating the difference in prevalence is not statistically different between pond 1 and 2.

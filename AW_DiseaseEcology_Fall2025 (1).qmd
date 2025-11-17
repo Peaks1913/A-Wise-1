@@ -242,7 +242,7 @@ Scenario:
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 |  |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|----|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |  |  |  |  |  |  |  |  |  |
 |  | Year |  | Population estimate |  | Turtles with fibroma: old cases |  | Turtles with fibroma: new cases |  |
 |  |  |  |  |  |  |  |  |  |
@@ -366,3 +366,33 @@ The prevalence of pond 1 is **30% (95% CI: 14% –53%).**
 The prevalence of pond 2 is **7%** **(95% CI: .3% –30%).**
 
 The Fisher’s exact test was run to compare the two prevalence values and resulted in a p-value of **0.1987**. This p-value is greater than 0.05 indicating the difference in prevalence is not statistically different between pond 1 and 2.
+
+------------------------------------------------------------------------
+
+Worksheet 7_2025
+
+**Nipah Virus**
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.                                                        **8 points**
+
+**In Malaysia, the mode of transmission is pig mediated. Fruit bats are the natural reservoir of the virus. Bats would partially consume fruits leaving the virus behind within the fruit. Then pigs would consume the partially eaten fruit and in-turn become infected. Pigs and bats are primarily asymptomatic when infected with the virus. Once infected, pigs amplified the spread of the virus to humans via close contact between pigs and workers who handle them.**
+
+**In Bangladesh, the mode of transmission was via direct or indirect bat-to-human contact. Humans would become infected by consuming raw date palm sap that had been exposed to an infected bat’s saliva or urine or humans could have contracted the virus through direct contact with the bat.**
+
+**The differences in the mode of transmission influence the prevention measures in both locations. In Malaysia, control measures primarily focus on managing human-livestock interactions and biosecurity of infected pigs. In order to control infections, bat access to pig encloses and fruit trees should be minimized, and pig farmers and workers should wear personal protective equipment when handling pigs. These measures would both help prevent future infections and control the spread of the virus. While in Bangladesh, preventative measures should focus on reducing bat-to-human contact. This could be done by impeding bats from encountering raw date palm sap and educating humans on the risks posed by consuming raw sap or even contaminated fallen fruit.**
+
+**Avian Reovirus**
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.                                                              **6 points**
+
+**ARV can be transmitted both vertically and horizontally. Horizontal transmission occurs via the ingestion of contaminated feces, water, feed, and litter. Even breathing in dust particles from contaminated feces can lead to transmission. Contact with contaminated equipment can also spread the virus between flocks. Vertical transmission occurs through the egg from infected hens to their offspring resulting in chicks hatching already infected. This facilitates outbreaks early in the chicken lifecycle, furthering the infection in chicken populations. Environmental factors that contribute to transmission includes high stocking density thereby increasing direct contact between infected and healthy chickens and poor sanitation and ventilation of chicken enclosures also allowing the persistence of the virus increasing the exposure of the virus to healthy chickens.**
+
+**The virus’s non-enveloped structure allows it to be very environmentally stable. This characteristic allows it to survive for long periods on contaminated objects and within feces, litter, and water thus prolonging viral exposure and facilitating horizontal transmission. ARV can also replicate in multiple tissue types which allows for multiple infection routes via feces and respiratory secretions.**
+
+**ARV is known to cause tenosynovitis in wild birds. This viral arthritis impedes proper mobility in wild birds, thus impacting bird survival which in-turn can affect population dynamics.**
+
+**Langya henipavirus**
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?                                           **6 points**
+
+**The likely reservoir of LayV is a shrew. Transmission occurs through direct contact with infected animal’s (shrews) feces and bodily fluids. Most patients tend to be farmers or people who were frequently exposed to shrews. LayV is not classified as a potential EID and is a spillover event because the virus cannot establish or sustain human to human transmission which is an important distinction needed to become a potential emerging infectious disease.**

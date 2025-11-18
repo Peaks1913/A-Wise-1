@@ -396,3 +396,97 @@ Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the 
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?                                           **6 points**
 
 **The likely reservoir of LayV is a shrew. Transmission occurs through direct contact with infected animal’s (shrews) feces and bodily fluids. Most patients tend to be farmers or people who were frequently exposed to shrews. LayV is not classified as a potential EID and is a spillover event because the virus cannot establish or sustain human to human transmission which is an important distinction needed to become a potential emerging infectious disease.**
+
+------------------------------------------------------------------------
+
+Worksheet 8_2025
+
+[**Monthly Prevalence**]{.underline}
+
+The prevalence of *B. procyonis* in the month of November is 46% **(95% CI: 31% –62%)**
+
+The prevalence of *B. procyonis* in the month of December is 20% **(95% CI: 4% –55%)**
+
+The prevalence of *B. procyonis* in the month of January is 36% **(95% CI: 19% –58%)**
+
+The prevalence of *B. procyonis* in the month of February is 63% **(95% CI: 46% –77%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between November, December, January, and February. The p-value was **0.06**. This p-value is greater than 0.05 indicating the difference in prevalence between the months evaluated is not statistically different.
+
+[**Region Prevalence**]{.underline}
+
+The prevalence of *B. procyonis* in the Central region is 64% **(95% CI: 37% –85%)**
+
+The prevalence of *B. procyonis* in the Northern region is 29% **(95% CI: 17% –43%)**
+
+The prevalence of *B. procyonis* in the Southern region is 63% **(95% CI: 48% –76%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* in raccoons between three regions (Central, North, and South) The p-value was **0.002**. This p-value is less than 0.05 indicating the difference in prevalence between the regions evaluated is statistically different, thus the region sampled does affect the prevalence of *B. procyonis.*
+
+[**Prevalence between Sex (Overall)**]{.underline}
+
+The overall prevalence of *B. procyonis* in male raccoonsis 38% **(95% CI: 27% –50%)**
+
+The overall prevalence of *B. procyonis* in female raccoonsis 65% **(95% CI: 49% –79%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between males and females overall. The p-value was **0.009**. This p-value is less than 0.05 indicating the difference in prevalence between males and females overall is statistically different, thus the overall sex does affect the prevalence of *B. procyonis.*
+
+[**Prevalence between Sex (within each Region)**]{.underline}
+
+[**Central**]{.underline}
+
+The prevalence of *B. procyonis* in male raccoonsin the Central region is 44% **(95% CI: 17% –75%)**
+
+The prevalence of *B. procyonis* in female raccoonsin the Central region is 100% **(95% CI: 50% –100%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between males and females in the central region. The p-value was **0.09**. This p-value is greater than 0.05 indicating the difference in prevalence between males and females in the central region is not statistically different.
+
+[**North**]{.underline}
+
+The prevalence of *B. procyonis* in male raccoonsin the Northern region is 21% **(95% CI: 10% –41%)**
+
+The prevalence of *B. procyonis* in female raccoonsin the Northern region is 38% **(95% CI: 20% –60%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between males and females in the northern region. The p-value was **0.22**. This p-value is greater than 0.05 indicating the difference in prevalence between males and females in the northern region is not statistically different.
+
+[**South**]{.underline}
+
+The prevalence of *B. procyonis* in male raccoonsin the Southern region is 50% **(95% CI: 33% –67%)**
+
+The prevalence of *B. procyonis* in female raccoonsin the Southern region is 100% **(95% CI: 74% –100%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between males and females in the Southern region. The p-value was **0.003**. This p-value is less than 0.05 indicating the difference in prevalence between males and females in the southern region is statistically different, thus within the southern region sex does affect the prevalence of *B. procyonis.*
+
+[**Prevalence between Age (Overall)**]{.underline}
+
+The prevalence of *B. procyonis* in adult raccoonsoverall is 52% **(95% CI: 40% –64%)**
+
+The prevalence of *B. procyonis* in young adult raccoonsoverall is 38% **(95% CI: 23% –54%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between adult and young adult overall. The p-value was **0.22**. This p-value is greater than 0.05 indicating the difference in prevalence between adult and young overall is not statistically different.
+
+[**Prevalence between Age (within each Region)**]{.underline}
+
+[**Central**]{.underline}
+
+The prevalence of *B. procyonis* in adult raccoonsin the Central region is 62% **(95% CI: 34% –83%)**
+
+The prevalence of *B. procyonis* in young adult raccoonsin the Central region is 100% **(95% CI: 50% –100%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between adult and young adult raccoons in the central region. The p-value was **1.00**. This p-value is greater than 0.05 indicating the difference in prevalence between adult and young adult raccoons in the central region is not statistically different.
+
+[**Northern**]{.underline}
+
+The prevalence of *B. procyonis* in adult raccoonsin the Northern region is 28% **(95% CI: 13% –48%)**
+
+The prevalence of *B. procyonis* in young adult raccoonsin the Northern region is 29% **(95% CI: 14% –50%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between adult and young adult raccoons in the Northern region. The p-value was **1.00**. This p-value is greater than 0.05 indicating the difference in prevalence between adult and young adult raccoons in the Northern region is not statistically different.
+
+[**Southern**]{.underline}
+
+The prevalence of *B. procyonis* in adult raccoonsin the Southern region is 68% **(95% CI: 50% –83%)**
+
+The prevalence of *B. procyonis* in young adult raccoonsin the Southern region is 50% **(95% CI: 24% –76%)**
+
+The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between adult and young adult raccoons in the Southern region. The p-value was **0.31**. This p-value is greater than 0.05 indicating the difference in prevalence between adult and young adult raccoons in the Southern region is not statistically different.

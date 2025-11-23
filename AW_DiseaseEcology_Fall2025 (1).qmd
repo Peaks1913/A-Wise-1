@@ -490,3 +490,93 @@ The prevalence of *B. procyonis* in adult raccoonsin the Southern region is 68% 
 The prevalence of *B. procyonis* in young adult raccoonsin the Southern region is 50% **(95% CI: 24% –76%)**
 
 The Fisher’s exact test was run to compare the prevalence values of *B. procyonis* between adult and young adult raccoons in the Southern region. The p-value was **0.31**. This p-value is greater than 0.05 indicating the difference in prevalence between adult and young adult raccoons in the Southern region is not statistically different.
+
+------------------------------------------------------------------------
+
+**Worksheet 9**
+
+**1.** In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the  United States. What specific human behaviors contributed to the zoonotic spread of *Salmonella*? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.  
+
+**Backyard poultry practices can significantly increase the risk of Salmonella transmission through several behaviors. Direct handling of infected birds without proper personal protection gear especially when owners touch feathers, feet, or droppings during routine care or while cleaning coops facilitates transmission. Another owner practice that facilitates transmission is allowing chickens to roam freely in yards. This further spreads contaminated feces throughout areas where owners, children, pets, and other animals frequently walk or play, increasing the likelihood of indirect exposure resulting in infection. The risk is further heightened when poultry are permitted inside the home, including kitchens and living spaces, where contaminated feathers, dust, or droppings can settle on surfaces and creates persistent opportunities for infection. Finally, contact involving children presents an additional transmission risk, as they often hold, cuddle, or even kiss chickens, bringing contaminated feathers and dust into close proximity with their mouth and face. Together, these behaviors create multiple pathways for Salmonella to spread from backyard birds to humans.**
+
+2.     Tall fescue grass is commonly infected with a fungal endophyte (*Epichloë coenophiala*) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+a.     What advantage does Tall fescue gain from being infected with a fungal endophyte? 
+
+**The fungal infection allows for tall fescue grass to have an enhanced drought tolerance because it causes deeper rooting of the grass and has increased durability, and rapid regrowth.**
+
+b.      What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+
+**Alkaloid production is increased due to temperature and drought stress. Droughts cause the concentration of the alkaloids to augment severity of the toxicosis. Soil fertility and other microbial communities also affect endophyte expression. When the soil becomes nutrient deficient endophyte alkaloid production is increased. Grazing management influences toxin accumulation and disease risk. Continual grazing leads to the consumption of the plants with the most alkaloids present also resulting in lack of pasture diversity thus increasing the severity and occurrence of fescue toxicosis.**
+
+c.     What are the key clinical signs of fescue toxicity in cattle?
+
+**The most common clinical signs are reduced feed intake resulting in poor weight gain, and cows also experience a decrease in milk production. Cattle hair coats also become rough and discolored.**
+
+------------------------------------------------------------------------
+
+**Worksheet 10**
+
+1.    What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?                           **10 points**
+
+**African Swine fever can be transmitted through vectors, direct contact with infected pigs, indirect contact with contaminated feed, and persistence within carcasses. ASF is transmitted directly via pig-to-pig contact with infected domestic pig blood, saliva, and excrement. The virus is also known to persist in infected animal carcasses allowing for contact and future infections. Indirect transmission occurs due to contact with contaminated equipment like farming trailers, clothing, boots, soil, pig bedding, and any other type of farming tool used around infected pigs. Vector-borne transmission occurs via ticks as they act as reservoir and infect pigs through biting. Humans contribute to the spread of ASF as well through mechanical transmission. Humans cause mechanical transmission of ASF by transporting infected pigs or meat products across borders. As well as feeding other pigs contaminated feed products. This transportation of pigs, pork, equipment, and improper disposal of contaminated food demonstrates how human behavior and improper biosecurity practices drive transmission.**
+
+2.    Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.                        **10 points**
+
+**Coinfections with KoRV causes an increase in mortality and causes higher infertility rates in Koalas. KoRv causes the immune system to be suppressed, in turn reducing the Koalas ability to fight off pathogens like *Chlamydia*. This is why coinfected Koalas have more severe clinical signs/ mortality and are more readily able to contract other illnesses. The progression of disease is also significantly increased due to increased bacterial loads leading to a more long-term infection. Immunosuppressed koalas respond less effectively to antibiotics, and have a higher likelihood of treatment failure, and are more prone to chronic infections. Managing Chlamydia in coinfected koalas in more difficult as well because infected individuals may continually infect susceptible koalas with more severe Chlamydia outbreaks**
+
+3.    Snake Fungal Disease (SFD), caused by *Ophidiomyces ophiodiicola*, is an emerging threat to wild snake populations in North America.
+
+What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)?                                                             **10 points**
+
+**Surveillance and management of SFD are challenging because snakes are difficult to detect and monitor in the wild as capture can be complicated because snakes can exist in low densities, and clinical signs can be variable. Diagnostics are also challenging to due unreliable qPCR results of false negatives. Management is further limited by the lack of effective treatments for wild snakes, and it is fairly difficult to enforce consistent biosecurity across large geographic areas**
+
+------------------------------------------------------------------------
+
+Term Project: Memo For Marburg Virus
+
+**To:** Department of Public Health
+
+**From:** Allison Wise
+
+**Date:** November 24, 2025
+
+**Subject:** Marburg Virus Disease (MVD)
+
+**Causative agent:** The Marburg virus disease is a severe illness causing hemorrhagic fever and can ultimately lead to death in humans. The Marburg virus is a single-stranded RNA virus and is part of the same family (Filoviridae) as the Ebola virus (Brauburger et al., 2012). Spillover events within filoviruses typically cause fatalities in both humans and non-human primates (Guito et al., 2021). Though both diseases are rare, outbreaks of MVD can have a high case fatality ratio in humans (up to 88%). The Marburg and Ebola viruses cause similar clinical signs resulting in the development of sudden symptoms like fever, rash, and in some cases severe bleeding (CDC, 2023).
+
+**Clinical manifestations:** Incubation period for MVD is approximately 2-21 days. In addition to fever and rash, common clinical manifestations include myalgia, headaches, and assorted gastrointestinal symptoms (diarrhea, vomiting, and abdominal pain). In severe cases, progressive multi-organ dysfunction and hemorrhaging can occur (Ligon, 2005; Shifflett & Marzi, 2019).
+
+**Geographic Distribution:** MVD was first detected in Marburg and Frankfurt, Germany as well as Belgrade, Serbia in 1967. These outbreaks were due to laboratory work with imported infected African green monkeys (*Cercopithecus aethiops*) from Uganda. Following its initial detection, outbreaks have been reported in various African countries (Ghana, Kenya, South Africa, and Tanzania) (World Health Organization, 2025). Through epidemiological research, the natural reservoir of the Marburg virus was determined to be the Egyptian fruit bat (*Rousettus aegyptiacus*)(Cuomo-Dannenburg et al., 2024). While analyzing the geographic distribution of MVD, human outbreaks have been largely confined to Africa, with outbreaks in Uganda, Angola, Democratic Republic of Congo, Guinea, and Rwanda. More recently, both Rwanda in 2024 and Tanzania in 2025 reported outbreaks (World Health Organization, 2025). These sporadic outbreaks across Africa and East Africa reinforce the pathogen’s serious emergence risk.
+
+**Transmission:** The transmission pathway also facilitates MVD’s high emergence risk. The virus persists within bats as a subclinical infection and is shed via feces, urine, and saliva. Primary infection is typically transmitted through direct bat-to-bat contact following infection of an individual. This asymptomatic infection in bats highlights a key host-pathogen interaction that allows the persistence of the Marburg virus in bats due to their disease tolerance (Guito et al., 2021). It is this tolerance that allows the virus to be maintained in large bat populations. Without fruit bat die-offs, a long-term host-pathogen equilibrium is established in reservoir bats. Bats then shed the virus enabling environmental contamination of caves and mines resulting in human exposure. Spillover from bats to humans occurs when humans come into contact with infected bat saliva, urine, and feces, typically, while visiting caves or mines inhabited by bats (Boora et al., 2024). Once the virus infects humans, human-to-human transmission occurs through direct contact with vomit, feces, urine, or saliva of symptomatic patients. This line of transmission ultimately leads to most human-to-human infections occurring between healthcare workers, patients and others in close direct contact, thus enhancing the persistence of the virus. Since humans are not dead-end hosts, MVD has been classified as an emerging infectious disease. (Shifflett & Marzi, 2019). Furthermore, due to high tourism around caves, transmission between bats and humans remains a significant risk. This can also elevate the likelihood of MVD spreading to other countries and continents via travel, thus increasing the overall public health risk. One such example occurred in 2008 when a US traveler visited a Ugandan cave and was subsequently diagnosed with MVD once they returned to the United States. This patient was immediately hospitalized and monitored until fully recovered (CDC, 2008). Though there have been no outbreaks in the US, this disease being imported highlights the potential for MVD to not only spread within the countries of origin but globally as well if proper disease control measures are not implemented.
+
+**Actionable Recommendation in Disease Control and Prevention:** To develop effective disease control protocols spillover dynamics and drivers of the disease must be fully evaluated and understood. Activities such as mining, cave tourism, agricultural expansion, habitat encroachment, seasonal changes, and changes in bat density/behavior can heighten contact rates and increase the likelihood of a spillover. Along with contact between bats and locals, global travel increases transmission risk as an infected human can appear in non-endemic regions (Boora et al., 2024). The 2008 case of MVD in the United States is an important example of how quickly this disease can spread globally if not properly monitored and controlled. Widespread transmission globally and within the countries of origin can be readily controlled if the disease is identified early due to transmission requiring close contact with patients and is not airborne. However, local public-health risks are primarily concerned among healthcare workers as close contact is near impossible to avoid. Hence, a critical first step in control measures is rapid identification and isolation of infected patients, and it is essential healthcare workers utilize proper PPE and waste disposal protocols. Healthcare facilities must be prepared to handle triage, isolation, and equip all personnel with fluid-resistant gowns, gloves, eye protection (Uppala et al., 2025). Hospitals must actively implement protocols that allow for the rapid identification of suspected cases. Once a suspected MVD case is identified, they should be immediately moved to a single room with an isolated bathroom to restrict movement and further contamination. Isolation rooms should be strictly labeled and avoided by all personnel except limited approved healthcare professionals. Proper decontamination protocols should be set in place (CDC, 2023). Additionally, proper case reporting would improve surveillance and detection as well as support a heightened level of contact tracing. By mandating immediate notification of suspected and confirmed cases to local and global public health officials, disease control measures can be more quickly implemented, and the public and tourism agencies can be rapidly notified of potential infection risks (Wirsiy et al., 2023). Contact tracing is equally important because it provides critical information as to which individuals are at risk and need to undergo isolation. Lastly, proper community education explaining transmission risks, when to seek care, and how to reduce exposure (avoid contact with bodily fluids of infected patients, avoid risky interactions with bats inhabited caves and mines) will aid in controlling and preventing future outbreaks (Uppala et al., 2025). The Marburg virus disease is a zoonotic hemorrhagic fever with demonstrated potential for amplification, and has been considered a potential emerging infectious disease, as human-to-human transmission is likely with close contact. Imported cases are of particular concern and demand an urgent, well-coordinated public-health response to prevent further transmission. Controlling the spread of MVD relies on preparedness and awareness among clinicians and hospitals, and clear risk communication to the public (Muvunyi et al., 2024).
+
+**References:**
+
+Boora, S., Kaushik, S., Yadav, J. P., Kaushik, S., & Kumar, D. (2024). Marburg virus is nature’s wake-up call: A bird’s-eye view. *Medicine in Microecology*, *20*, 100102. https://doi.org/10.1016/j.medmic.2024.100102
+
+Brauburger, K., Hume, A. J., Mühlberger, E., & Olejnik, J. (2012). Forty-five years of Marburg virus research. *Viruses*, *4*(10), 1878–1927. https://doi.org/10.3390/v4101878
+
+Centers for Disease Control and Prevention. About Marburg Virus Disease. Marburg Virus Disease, CDC. 2023. Accessed on 14 February 2023
+
+Centers for Disease Control and Prevention. Imported Case of Marburg Hemorrhagic Fever—Colorado, 2008. Morbidity and Mortality Weekly Report, CDC. 2009
+
+Cuomo-Dannenburg, G., McCain, K., McCabe, R., Unwin, H. J. T., Doohan, P., Nash, R. K., Hicks, J. T., Charniga, K., Geismar, C., Lambert, B., Nikitin, D., Skarp, J., Wardle, J., Kont, M., Bhatia, S., Imai, N., van Elsland, S., Cori, A., Morgenstern, C., & Pathogen Epidemiology Review Group. (2024). Marburg virus disease outbreaks, mathematical models, and disease parameters: A systematic review. *The Lancet. Infectious Diseases*, *24*(5), e307–e317. https://doi.org/10.1016/S1473-3099(23)00515-7
+
+Guito, J. C., Prescott, J. B., Arnold, C. E., Amman, B. R., Schuh, A. J., Spengler, J. R., Sealy, T. K., Harmon, J. R., Coleman-McCray, J. D., Kulcsar, K. A., Nagle, E. R., Kumar, R., Palacios, G. F., Sanchez-Lockhart, M., & Towner, J. S. (2021a). Asymptomatic Infection of Marburg Virus Reservoir Bats Is Explained by a Strategy of Immunoprotective Disease Tolerance. *Current Biology*, *31*(2), 257-270.e5. https://doi.org/10.1016/j.cub.2020.10.015
+
+Guito, J. C., Prescott, J. B., Arnold, C. E., Amman, B. R., Schuh, A. J., Spengler, J. R., Sealy, T. K., Harmon, J. R., Coleman-McCray, J. D., Kulcsar, K. A., Nagle, E. R., Kumar, R., Palacios, G. F., Sanchez-Lockhart, M., & Towner, J. S. (2021b). Asymptomatic Infection of Marburg Virus Reservoir Bats Is Explained by a Strategy of Immunoprotective Disease Tolerance. *Current Biology*, *31*(2), 257-270.e5. https://doi.org/10.1016/j.cub.2020.10.015
+
+Ligon, B. L. (2005). Outbreak of Marburg hemorrhagic fever in Angola: A review of the history of the disease and its biological aspects. *Seminars in Pediatric Infectious Diseases*, *16*(3), 219–224. https://doi.org/10.1053/j.spid.2005.05.001
+
+Muvunyi, C. M., Ngabonziza, J. C. S., Bigirimana, N., Ndembi, N., Siddig, E. E., Kaseya, J., Ahmed, A., Muvunyi, C. M., Ngabonziza, J. C. S., Bigirimana, N., Ndembi, N., Siddig, E. E., Kaseya, J., & Ahmed, A. (2024). Evidence-Based Guidance for One Health Preparedness, Prevention, and Response Strategies to Marburg Virus Disease Outbreaks. *Diseases*, *12*(12). https://doi.org/10.3390/diseases12120309
+
+Shifflett, K., & Marzi, A. (2019). Marburg virus pathogenesis—Differences and similarities in humans and animal models. *Virology Journal*, *16*(1), 165. https://doi.org/10.1186/s12985-019-1272-z
+
+Uppala, P. K., Karanam, S. K., Kandra, N. V., & Edhi, S. (2025). Marburg virus disease: Emerging threat, pathogenesis, and global public health strategies. *World Journal of Virology*, *14*(2), 103576. https://doi.org/10.5501/wjv.v14.i2.103576
+
+Wirsiy, F. S., Nkfusai, C. N., & Bain, L. E. (2023). The SPIN framework to control and prevent the Marburg virus disease outbreak in Equatorial Guinea. *The Pan African Medical Journal*, *44*, 110. https://doi.org/10.11604/pamj.2023.44.110.39368
+
+World Health Organization. (2025, January 20). *Marburg virus disease*. https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease
